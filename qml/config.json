@@ -1,0 +1,8 @@
+{
+    "title": "Led_RGB",
+    "identifier": "com.mechatronicsblog.LedRGB",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0",
+    "stage": "test"
+}
